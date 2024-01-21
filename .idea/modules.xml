@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Algorithm_design_and_analyze_Personnal_HomeworkCollection.iml" filepath="$PROJECT_DIR$/.idea/Algorithm_design_and_analyze_Personnal_HomeworkCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Divide-and-solve II/Divide-and-solve II.iml" filepath="$PROJECT_DIR$/Divide-and-solve II/Divide-and-solve II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicDesign  III/DynamicDesign  III.iml" filepath="$PROJECT_DIR$/DynamicDesign  III/DynamicDesign  III.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy  Four/Greedy  Four.iml" filepath="$PROJECT_DIR$/Greedy  Four/Greedy  Four.iml" />
+    </modules>
+  </component>
+</project>
